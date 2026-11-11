@@ -1,6 +1,6 @@
 ### Hey, I'm adu 👋
 
-I trade and I build. Mostly I make the tools I wanted and couldn't find: single-file web apps that work offline and keep your data on your own device. No accounts, no servers.
+I trade, and I build the tools I trade with. They run in your browser, work offline and keep your data on your own device. No accounts, no servers.
 
 **Portfolio:** [adu21-8.github.io](https://adu21-8.github.io)
 
@@ -21,13 +21,6 @@ An offline trading journal for MetaTrader 5. Import your statement, tag what you
 
 ---
 
-### Also building
-
-| Project | What it is | |
-|---|---|---|
-| **Orrery** | A solar system you can play. Planets ring notes as they cross the meridian, with orbit speeds from Kepler's third law. | [Play it](https://adu21-8.github.io/orrery/) |
-| **Desktop Widgets** | A click-through widget overlay for Windows on top of Wallpaper Engine: system gauges, weather, media controls, an app launcher. | Private for now |
-
 ### Tools I use
 
-`HTML` `CSS` `JavaScript` `Electron` `PowerShell` `Web Audio` `MetaTrader 5`
+`HTML` `CSS` `JavaScript` `PWA` `MetaTrader 5`
