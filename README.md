@@ -1,6 +1,6 @@
 ### Hey, I'm adu 👋
 
-I trade, and I build the tools I trade with. They run in your browser, work offline and keep your data on your own device. No accounts, no servers.
+I'm 18 and studying for a BBA in Accounting and Finance. I trade, and I build the tools I trade with. They run in your browser, work offline and keep your data on your own device. No accounts, no servers.
 
 **Portfolio:** [adu21-8.github.io](https://adu21-8.github.io)
 
